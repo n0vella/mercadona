@@ -14,7 +14,7 @@ with open("data.json", "r", encoding="utf-8") as f:
 @app.route("/product/<int:product_id>")
 def get_product(product_id):
     if item := data.get(str(product_id)):
-        return item
+        return item["data"]
 
     return {"error": "Product not found"}
 
@@ -26,6 +26,6 @@ def query_product(product_name):
 
     for item in data.values():
         if item["name"] == decoded_name:
-            return item
+            return item["data"]
 
     return {"error": "Product not found"}
