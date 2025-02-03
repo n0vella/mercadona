@@ -1,5 +1,6 @@
 from flask import Flask
 import json
+from urllib.parse import unquote
 
 app = Flask(__name__)
 
@@ -18,8 +19,11 @@ def get_product(product_id):
 
 @app.route("/query/<string:product_name>")
 def query_product(product_name):
+    # handle double codification
+    decoded_name = unquote(unquote(product_name))
+
     for item in data.values():
-        if item["name"] == product_name:
+        if item["name"] == decoded_name:
             return item
 
     return {"error": "Product not found"}
