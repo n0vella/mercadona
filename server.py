@@ -2,8 +2,10 @@ from flask import Flask
 import json
 from urllib.parse import unquote
 
-app = Flask(__name__)
+from flask_cors import CORS
 
+app = Flask(__name__)
+CORS(app)
 
 with open("data.json", "r", encoding="utf-8") as f:
     data = json.load(f)
