@@ -79,6 +79,11 @@
 			"25-06-30": {
 				"bulk_price": "3.55",
 				"unit_price": "3.55"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "3.85",
+				"unit_price": "3.85"
 			}
 		}
 	},
@@ -334,6 +339,11 @@
 			"25-05-26": {
 				"bulk_price": "3.69",
 				"unit_price": "18.45"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "3.89",
+				"unit_price": "19.45"
 			}
 		}
 	},
@@ -413,6 +423,11 @@
 			"25-05-26": {
 				"bulk_price": "3.95",
 				"unit_price": "3.95"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "4.00",
+				"unit_price": "4.00"
 			}
 		}
 	},
@@ -5583,6 +5598,10 @@
 			"25-09-29": {
 				"bulk_price": "0.93",
 				"unit_price": "3.72"
+			},
+			"25-10-13": {
+				"bulk_price": "1.00",
+				"unit_price": "4.00"
 			}
 		}
 	},
@@ -5689,6 +5708,10 @@
 			"25-09-15": {
 				"bulk_price": "1.19",
 				"unit_price": "1.49"
+			},
+			"25-10-13": {
+				"bulk_price": "1.08",
+				"unit_price": "1.35"
 			}
 		}
 	},
@@ -6692,6 +6715,10 @@
 			"25-09-01": {
 				"bulk_price": "2.33",
 				"unit_price": "6.93"
+			},
+			"25-10-13": {
+				"bulk_price": "2.06",
+				"unit_price": "6.12"
 			}
 		}
 	},
@@ -6805,6 +6832,10 @@
 			"25-09-01": {
 				"bulk_price": "2.42",
 				"unit_price": "0.80"
+			},
+			"25-10-13": {
+				"bulk_price": "2.27",
+				"unit_price": "0.75"
 			}
 		}
 	},
@@ -6938,6 +6969,10 @@
 			"25-09-01": {
 				"bulk_price": "2.42",
 				"unit_price": "0.80"
+			},
+			"25-10-13": {
+				"bulk_price": "2.27",
+				"unit_price": "0.75"
 			}
 		}
 	},
@@ -10056,6 +10091,11 @@
 			"25-02-10": {
 				"bulk_price": "13.50",
 				"unit_price": "2.70"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "13.75",
+				"unit_price": "2.75"
 			}
 		}
 	},
@@ -10223,6 +10263,11 @@
 			"25-05-19": {
 				"bulk_price": "13.50",
 				"unit_price": "2.70"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "14.00",
+				"unit_price": "2.80"
 			}
 		}
 	},
@@ -10239,6 +10284,11 @@
 			"24-10-14": {
 				"bulk_price": "3.70",
 				"unit_price": "1.00"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "4.07",
+				"unit_price": "1.10"
 			}
 		}
 	},
@@ -10263,6 +10313,11 @@
 			"25-05-19": {
 				"bulk_price": "13.50",
 				"unit_price": "2.70"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "14.00",
+				"unit_price": "2.80"
 			}
 		}
 	},
@@ -10359,6 +10414,11 @@
 			"24-06-03": {
 				"bulk_price": "3.88",
 				"unit_price": "1.55"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "4.13",
+				"unit_price": "1.65"
 			}
 		}
 	},
@@ -10512,6 +10572,11 @@
 			"24-05-27": {
 				"bulk_price": "3.88",
 				"unit_price": "1.55"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "4.13",
+				"unit_price": "1.65"
 			}
 		}
 	},
@@ -11553,6 +11618,10 @@
 			"25-09-29": {
 				"bulk_price": "15.76",
 				"unit_price": "2.60"
+			},
+			"25-10-13": {
+				"bulk_price": "12.06",
+				"unit_price": "1.99"
 			}
 		}
 	},
@@ -11698,6 +11767,10 @@
 			"25-09-29": {
 				"bulk_price": "15.76",
 				"unit_price": "2.60"
+			},
+			"25-10-13": {
+				"bulk_price": "12.06",
+				"unit_price": "1.99"
 			}
 		}
 	},
@@ -27437,6 +27510,10 @@
 				"iva": null,
 				"bulk_price": "39.75",
 				"unit_price": "7.95"
+			},
+			"25-10-13": {
+				"bulk_price": "42.50",
+				"unit_price": "8.50"
 			}
 		}
 	},
@@ -27639,6 +27716,10 @@
 				"iva": null,
 				"bulk_price": "39.75",
 				"unit_price": "7.95"
+			},
+			"25-10-13": {
+				"bulk_price": "42.50",
+				"unit_price": "8.50"
 			}
 		}
 	},
@@ -29984,6 +30065,11 @@
 			"23-11-20": {
 				"bulk_price": "14.50",
 				"unit_price": "17.40"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "16.50",
+				"unit_price": "19.80"
 			}
 		}
 	},
@@ -30498,6 +30584,9 @@
 			"25-05-05": {
 				"bulk_price": "7.38",
 				"unit_price": "2.95"
+			},
+			"25-10-13": {
+				"iva": null
 			}
 		}
 	},
@@ -32797,6 +32886,10 @@
 			"25-09-22": {
 				"bulk_price": "5.30",
 				"unit_price": "2.65"
+			},
+			"25-10-13": {
+				"bulk_price": "6.00",
+				"unit_price": "3.00"
 			}
 		}
 	},
@@ -33451,6 +33544,10 @@
 				"iva": null,
 				"bulk_price": "24.58",
 				"unit_price": "2.95"
+			},
+			"25-10-13": {
+				"bulk_price": "29.17",
+				"unit_price": "3.50"
 			}
 		}
 	},
@@ -34420,6 +34517,9 @@
 			"25-07-21": {
 				"bulk_price": "8.33",
 				"unit_price": "1.55"
+			},
+			"25-10-13": {
+				"iva": null
 			}
 		}
 	},
@@ -41412,6 +41512,10 @@
 				"iva": null,
 				"bulk_price": "11.95",
 				"unit_price": "1183.05"
+			},
+			"25-10-13": {
+				"bulk_price": "12.95",
+				"unit_price": "1282.05"
 			}
 		}
 	},
@@ -41473,6 +41577,10 @@
 				"iva": null,
 				"bulk_price": "10.45",
 				"unit_price": "20.90"
+			},
+			"25-10-13": {
+				"bulk_price": "11.50",
+				"unit_price": "23.00"
 			}
 		}
 	},
@@ -45508,6 +45616,11 @@
 			"25-04-14": {
 				"bulk_price": "2.17",
 				"unit_price": "2.15"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "2.22",
+				"unit_price": "2.20"
 			}
 		}
 	},
@@ -45548,6 +45661,11 @@
 			"25-04-14": {
 				"bulk_price": "1.60",
 				"unit_price": "1.60"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "1.70",
+				"unit_price": "1.70"
 			}
 		}
 	},
@@ -45580,6 +45698,11 @@
 			"25-04-14": {
 				"bulk_price": "2.68",
 				"unit_price": "2.65"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "2.73",
+				"unit_price": "2.70"
 			}
 		}
 	},
@@ -45612,6 +45735,11 @@
 			"25-04-14": {
 				"bulk_price": "2.20",
 				"unit_price": "2.20"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "2.30",
+				"unit_price": "2.30"
 			}
 		}
 	},
@@ -45645,6 +45773,10 @@
 				"iva": null,
 				"bulk_price": "2.60",
 				"unit_price": "2.60"
+			},
+			"25-10-13": {
+				"bulk_price": "2.85",
+				"unit_price": "2.85"
 			}
 		}
 	},
@@ -45681,6 +45813,11 @@
 			"25-06-09": {
 				"bulk_price": "3.03",
 				"unit_price": "1.00"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "3.64",
+				"unit_price": "1.20"
 			}
 		}
 	},
@@ -45714,6 +45851,10 @@
 				"iva": null,
 				"bulk_price": "2.90",
 				"unit_price": "2.90"
+			},
+			"25-10-13": {
+				"bulk_price": "3.15",
+				"unit_price": "3.15"
 			}
 		}
 	},
@@ -45746,6 +45887,11 @@
 			"25-05-12": {
 				"bulk_price": "3.79",
 				"unit_price": "1.25"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "3.94",
+				"unit_price": "1.30"
 			}
 		}
 	},
@@ -46566,6 +46712,11 @@
 			"25-04-21": {
 				"bulk_price": "1.60",
 				"unit_price": "1.60"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "1.75",
+				"unit_price": "1.75"
 			}
 		}
 	},
@@ -46699,6 +46850,10 @@
 			"25-09-15": {
 				"bulk_price": "13.60",
 				"unit_price": "3.40"
+			},
+			"25-10-13": {
+				"bulk_price": "16.00",
+				"unit_price": "4.00"
 			}
 		}
 	},
@@ -47119,6 +47274,11 @@
 			"25-06-16": {
 				"bulk_price": "4.25",
 				"unit_price": "1.70"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "5.13",
+				"unit_price": "2.05"
 			}
 		}
 	},
@@ -47216,6 +47376,10 @@
 			"25-09-15": {
 				"bulk_price": "9.83",
 				"unit_price": "2.95"
+			},
+			"25-10-13": {
+				"bulk_price": "11.83",
+				"unit_price": "3.55"
 			}
 		}
 	},
@@ -47252,6 +47416,11 @@
 				"bulk_price": "4.50",
 				"unit_price": "1.80",
 				"size_format": "l"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "5.13",
+				"unit_price": "2.05"
 			}
 		}
 	},
@@ -52723,6 +52892,10 @@
 			"25-09-01": {
 				"bulk_price": "47.00",
 				"unit_price": "2.35"
+			},
+			"25-10-13": {
+				"bulk_price": "46.00",
+				"unit_price": "2.30"
 			}
 		}
 	},
@@ -52869,6 +53042,10 @@
 			"25-09-01": {
 				"bulk_price": "47.00",
 				"unit_price": "2.35"
+			},
+			"25-10-13": {
+				"bulk_price": "46.00",
+				"unit_price": "2.30"
 			}
 		}
 	},
@@ -52914,6 +53091,10 @@
 			"25-09-01": {
 				"bulk_price": "47.00",
 				"unit_price": "2.35"
+			},
+			"25-10-13": {
+				"bulk_price": "46.00",
+				"unit_price": "2.30"
 			}
 		}
 	},
@@ -59452,6 +59633,9 @@
 				"bulk_price": "0.07",
 				"unit_price": "4.30",
 				"size_format": "kg"
+			},
+			"25-10-13": {
+				"iva": null
 			}
 		}
 	},
@@ -60559,6 +60743,10 @@
 			"25-10-06": {
 				"unit_size": 0.19,
 				"unit_price": "0.29"
+			},
+			"25-10-13": {
+				"bulk_price": "1.35",
+				"unit_price": "0.26"
 			}
 		}
 	},
@@ -60918,6 +61106,10 @@
 			"25-09-29": {
 				"bulk_price": "3.60",
 				"unit_price": "3.06"
+			},
+			"25-10-13": {
+				"bulk_price": "3.80",
+				"unit_price": "3.23"
 			}
 		}
 	},
@@ -64741,6 +64933,10 @@
 			"25-10-06": {
 				"unit_size": 0.23,
 				"unit_price": "0.44"
+			},
+			"25-10-13": {
+				"unit_size": 0.24,
+				"unit_price": "0.46"
 			}
 		}
 	},
@@ -65309,6 +65505,10 @@
 			"25-10-06": {
 				"unit_size": 0.42,
 				"unit_price": "0.99"
+			},
+			"25-10-13": {
+				"unit_size": 0.39,
+				"unit_price": "0.92"
 			}
 		}
 	},
@@ -65812,6 +66012,10 @@
 			"25-10-06": {
 				"unit_size": 0.62,
 				"unit_price": "2.05"
+			},
+			"25-10-13": {
+				"unit_size": 0.53,
+				"unit_price": "1.75"
 			}
 		}
 	},
@@ -70038,6 +70242,10 @@
 			"25-09-01": {
 				"bulk_price": "1.23",
 				"unit_price": "11.10"
+			},
+			"25-10-13": {
+				"bulk_price": "1.17",
+				"unit_price": "10.50"
 			}
 		}
 	},
@@ -70097,6 +70305,10 @@
 			"25-09-01": {
 				"bulk_price": "1.23",
 				"unit_price": "1.85"
+			},
+			"25-10-13": {
+				"bulk_price": "1.17",
+				"unit_price": "1.75"
 			}
 		}
 	},
@@ -72378,6 +72590,10 @@
 				"iva": null,
 				"bulk_price": "6.09",
 				"unit_price": "7.95"
+			},
+			"25-10-13": {
+				"bulk_price": "5.33",
+				"unit_price": "6.95"
 			}
 		}
 	},
@@ -74280,6 +74496,10 @@
 			"25-09-15": {
 				"bulk_price": "24.50",
 				"unit_price": "2.45"
+			},
+			"25-10-13": {
+				"bulk_price": "29.50",
+				"unit_price": "2.95"
 			}
 		}
 	},
@@ -81497,6 +81717,11 @@
 			"25-10-06": {
 				"unit_size": 2.81,
 				"unit_price": "27.96"
+			},
+			"25-10-13": {
+				"unit_size": 2.83,
+				"bulk_price": "10.95",
+				"unit_price": "30.99"
 			}
 		}
 	},
@@ -81860,6 +82085,11 @@
 			"25-10-06": {
 				"unit_size": 1.45,
 				"unit_price": "14.43"
+			},
+			"25-10-13": {
+				"unit_size": 1.47,
+				"bulk_price": "10.95",
+				"unit_price": "16.10"
 			}
 		}
 	},
@@ -82235,6 +82465,11 @@
 			"25-10-06": {
 				"unit_size": 2.81,
 				"unit_price": "27.96"
+			},
+			"25-10-13": {
+				"unit_size": 2.83,
+				"bulk_price": "10.95",
+				"unit_price": "30.99"
 			}
 		}
 	},
@@ -82598,6 +82833,11 @@
 			"25-10-06": {
 				"unit_size": 1.45,
 				"unit_price": "14.43"
+			},
+			"25-10-13": {
+				"unit_size": 1.47,
+				"bulk_price": "10.95",
+				"unit_price": "16.10"
 			}
 		}
 	},
@@ -82973,6 +83213,11 @@
 			"25-10-06": {
 				"unit_size": 2.81,
 				"unit_price": "27.96"
+			},
+			"25-10-13": {
+				"unit_size": 2.83,
+				"bulk_price": "10.95",
+				"unit_price": "30.99"
 			}
 		}
 	},
@@ -83336,6 +83581,11 @@
 			"25-10-06": {
 				"unit_size": 1.45,
 				"unit_price": "14.43"
+			},
+			"25-10-13": {
+				"unit_size": 1.47,
+				"bulk_price": "10.95",
+				"unit_price": "16.10"
 			}
 		}
 	},
@@ -92118,6 +92368,9 @@
 				"iva": 4,
 				"bulk_price": "13.20",
 				"unit_price": "1.32"
+			},
+			"25-10-13": {
+				"iva": null
 			}
 		}
 	},
@@ -98024,6 +98277,10 @@
 			"25-08-18": {
 				"bulk_price": "5.00",
 				"unit_price": "1.50"
+			},
+			"25-10-13": {
+				"bulk_price": "5.67",
+				"unit_price": "1.70"
 			}
 		}
 	},
@@ -98091,6 +98348,10 @@
 			"25-08-18": {
 				"bulk_price": "5.00",
 				"unit_price": "1.50"
+			},
+			"25-10-13": {
+				"bulk_price": "5.67",
+				"unit_price": "1.70"
 			}
 		}
 	},
@@ -98125,6 +98386,11 @@
 			"25-04-14": {
 				"bulk_price": "2.08",
 				"unit_price": "1.50"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "2.36",
+				"unit_price": "1.70"
 			}
 		}
 	},
@@ -102721,6 +102987,11 @@
 				"bulk_price": "25.90",
 				"unit_price": "16.84",
 				"size_format": "kg"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "27.50",
+				"unit_price": "17.88"
 			}
 		}
 	},
@@ -109404,6 +109675,10 @@
 				"iva": null,
 				"bulk_price": "0.13",
 				"unit_price": "2.60"
+			},
+			"25-10-13": {
+				"bulk_price": "0.14",
+				"unit_price": "2.85"
 			}
 		}
 	},
@@ -112452,6 +112727,10 @@
 				"iva": null,
 				"bulk_price": "0.12",
 				"unit_price": "3.95"
+			},
+			"25-10-13": {
+				"bulk_price": "0.14",
+				"unit_price": "4.50"
 			}
 		}
 	},
@@ -112673,6 +112952,10 @@
 			"25-09-01": {
 				"bulk_price": "2.33",
 				"unit_price": "6.16"
+			},
+			"25-10-13": {
+				"bulk_price": "2.06",
+				"unit_price": "5.44"
 			}
 		}
 	},
@@ -112975,6 +113258,10 @@
 				"iva": null,
 				"bulk_price": "0.15",
 				"unit_price": "3.65"
+			},
+			"25-10-13": {
+				"bulk_price": "0.18",
+				"unit_price": "4.20"
 			}
 		}
 	},
@@ -116108,6 +116395,10 @@
 			"25-09-15": {
 				"bulk_price": "1.16",
 				"unit_price": "2.90"
+			},
+			"25-10-13": {
+				"bulk_price": "1.00",
+				"unit_price": "2.50"
 			}
 		}
 	},
@@ -119495,6 +119786,10 @@
 			"25-09-29": {
 				"bulk_price": "1.33",
 				"unit_price": "1.99"
+			},
+			"25-10-13": {
+				"bulk_price": "0.99",
+				"unit_price": "1.49"
 			}
 		}
 	},
@@ -120102,6 +120397,11 @@
 			"25-06-30": {
 				"bulk_price": "3.45",
 				"unit_price": "17.25"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "3.75",
+				"unit_price": "18.75"
 			}
 		}
 	},
@@ -120535,6 +120835,11 @@
 			"25-07-21": {
 				"bulk_price": "20.00",
 				"unit_price": "17.00"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "21.00",
+				"unit_price": "17.85"
 			}
 		}
 	},
@@ -120832,6 +121137,11 @@
 			"25-03-17": {
 				"bulk_price": "22.80",
 				"unit_price": "6.50"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "24.30",
+				"unit_price": "6.93"
 			}
 		}
 	},
@@ -120944,6 +121254,11 @@
 				"bulk_price": "22.95",
 				"unit_price": "8.03",
 				"size_format": "kg"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "24.00",
+				"unit_price": "8.40"
 			}
 		}
 	},
@@ -120960,6 +121275,11 @@
 			"25-07-21": {
 				"bulk_price": "25.50",
 				"unit_price": "8.92"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "26.00",
+				"unit_price": "9.10"
 			}
 		}
 	},
@@ -120976,6 +121296,11 @@
 			"25-09-22": {
 				"unit_size": 0.35,
 				"unit_price": "6.63"
+			},
+			"25-10-13": {
+				"iva": null,
+				"bulk_price": "20.00",
+				"unit_price": "7.00"
 			}
 		}
 	},
@@ -123890,6 +124215,174 @@
 				"bulk_price": "9.76",
 				"unit_price": "4.10",
 				"size_format": "kg"
+			}
+		}
+	},
+	"14943": {
+		"name": "Taquitos de cerdo",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 0.4,
+				"bulk_price": "5.30",
+				"unit_price": "2.12",
+				"size_format": "kg"
+			}
+		}
+	},
+	"11682": {
+		"name": "Queso curado mezcla afrutado Hacendado cortado en cuñitas",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 0.33,
+				"bulk_price": "14.65",
+				"unit_price": "4.83",
+				"size_format": "kg"
+			}
+		}
+	},
+	"15165": {
+		"name": "Bizcocho Hacendado",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 0.29,
+				"bulk_price": "6.03",
+				"unit_price": "1.75",
+				"size_format": "kg"
+			}
+		}
+	},
+	"11529": {
+		"name": "Vela de cumpleaños 0 Hacendado",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 1.0,
+				"bulk_price": "1.10",
+				"unit_price": "1.10",
+				"size_format": "ud"
+			}
+		}
+	},
+	"11530": {
+		"name": "Vela de cumpleaños 1 Hacendado",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 1.0,
+				"bulk_price": "1.10",
+				"unit_price": "1.10",
+				"size_format": "ud"
+			}
+		}
+	},
+	"11531": {
+		"name": "Vela de cumpleaños 2 Hacendado",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 1.0,
+				"bulk_price": "1.10",
+				"unit_price": "1.10",
+				"size_format": "ud"
+			}
+		}
+	},
+	"11532": {
+		"name": "Vela de cumpleaños 3 Hacendado",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 1.0,
+				"bulk_price": "1.10",
+				"unit_price": "1.10",
+				"size_format": "ud"
+			}
+		}
+	},
+	"11533": {
+		"name": "Vela de cumpleaños 4 Hacendado",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 1.0,
+				"bulk_price": "1.10",
+				"unit_price": "1.10",
+				"size_format": "ud"
+			}
+		}
+	},
+	"11534": {
+		"name": "Vela de cumpleaños 5 Hacendado",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 1.0,
+				"bulk_price": "1.10",
+				"unit_price": "1.10",
+				"size_format": "ud"
+			}
+		}
+	},
+	"11535": {
+		"name": "Vela de cumpleaños 6 Hacendado",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 1.0,
+				"bulk_price": "1.10",
+				"unit_price": "1.10",
+				"size_format": "ud"
+			}
+		}
+	},
+	"11536": {
+		"name": "Vela de cumpleaños 7 Hacendado",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 1.0,
+				"bulk_price": "1.10",
+				"unit_price": "1.10",
+				"size_format": "ud"
+			}
+		}
+	},
+	"11537": {
+		"name": "Vela de cumpleaños 8 Hacendado",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 1.0,
+				"bulk_price": "1.10",
+				"unit_price": "1.10",
+				"size_format": "ud"
+			}
+		}
+	},
+	"11538": {
+		"name": "Vela de cumpleaños 9 Hacendado",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 1.0,
+				"bulk_price": "1.10",
+				"unit_price": "1.10",
+				"size_format": "ud"
+			}
+		}
+	},
+	"11523": {
+		"name": "Velas de cumpleaños Hacendado",
+		"data": {
+			"25-10-13": {
+				"iva": null,
+				"unit_size": 1.0,
+				"bulk_price": "0.13",
+				"unit_price": "1.25",
+				"size_format": "ud"
 			}
 		}
 	}
